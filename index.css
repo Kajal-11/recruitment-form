@@ -10,6 +10,13 @@ body, html{
 	font-family: 'Lato', sans-serif;
 }
 
+img.logo{
+  position: fixed;
+  top: 15px;
+  left: 20px;
+  height: 70px;
+}
+
 .box{
   display: flex;
   flex-wrap: wrap;
